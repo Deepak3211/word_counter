@@ -1,1 +1,1 @@
-> Live Demo [Word Counter](https://www.example.com)
+> Live Demo [Word Counter](https://deepak3211.github.io/word_counter/)
